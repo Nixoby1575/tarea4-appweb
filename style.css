@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+.datos-box{
+    align-items: center;
+    margin: 0 400px;
+    background-color: rgb(142, 255, 255);
+    border: 5px solid rgb(255, 54, 54);
+    border-radius: 15px;
+    width: 30em;
+}
+label {
+    display: block;
+    margin: 0 170px;
+}
+
+.datos-box button{
+    margin: 0 170px;
+    position: relative;
+}
+
+.resultados-box{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 25px;
+}
